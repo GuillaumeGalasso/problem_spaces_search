@@ -1,5 +1,5 @@
 # Artificial intelligence (IA01) : Problem spaces search
-A spaces and search problem project with the 2 jars problem implemented in Lisp including : 
+A spaces and search problem project with the 2 jars problem implemented in Common Lisp including : 
 - Problem modelling
 - Depth First Search method
 - Breadth First Search method
