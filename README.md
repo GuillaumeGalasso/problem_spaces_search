@@ -3,3 +3,4 @@ Problem Spaces and Search project with the 2 jars problem implemented in Lisp in
 - Problem modelling
 - Depth First Search method
 - Breadth First Search method
+This project realised in duo achieved the best score of the propomtion with a grade of 20/20
